@@ -42,5 +42,5 @@ $ root@d8a1d4eb64af:/# make test     # test gcc compiler under hdfeos building e
 
 
 # Contact
-- Jun Xiong
-Author Email: jun.xiong1981@gmail.com
+- Jun Xiong, NASA Ames Research Center / BAERI
+- [Email to me]:[mailto:xiong@baeri.org] 
